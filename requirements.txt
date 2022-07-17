@@ -1,0 +1,4 @@
+imageio==2.19.3
+imageio-ffmpeg==0.4.7
+pandas==1.4.3
+Pillow==9.1.1
